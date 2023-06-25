@@ -1,2 +1,2 @@
 # test file
-print("Welcome")
+print("Welcome, this is a test python file.")
